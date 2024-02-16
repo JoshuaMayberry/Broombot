@@ -1,0 +1,11 @@
+{
+  "name": "broombot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Broom",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1631923468.92f6471"
+  }
+}
